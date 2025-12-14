@@ -28,7 +28,6 @@
   <p>
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
     <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
-    <img src="https://img.shields.io/badge/import_antigravity-FLY?style=for-the-badge&color=purple" alt="Antigravity" />
   </p>
 
   ---
