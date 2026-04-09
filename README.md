@@ -29,14 +29,7 @@
     <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
   </p>
 
-  ---
-
-  ### 📊 GitHub İstatistiklerim
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MAliTopkara&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Mehmet Ali's Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAliTopkara&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  </p>
+  
 
   ---
 ### 📫 İletişim
